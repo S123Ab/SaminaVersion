@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SaminaVersion/static/css/main.be78f325.css",
+    "main.js": "/SaminaVersion/static/js/main.846fdfea.js",
+    "static/js/787.e72e4321.chunk.js": "/SaminaVersion/static/js/787.e72e4321.chunk.js",
+    "index.html": "/SaminaVersion/index.html",
+    "main.be78f325.css.map": "/SaminaVersion/static/css/main.be78f325.css.map",
+    "main.846fdfea.js.map": "/SaminaVersion/static/js/main.846fdfea.js.map",
+    "787.e72e4321.chunk.js.map": "/SaminaVersion/static/js/787.e72e4321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be78f325.css",
+    "static/js/main.846fdfea.js"
+  ]
+}
